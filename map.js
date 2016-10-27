@@ -5,7 +5,7 @@ var margin = {
         bottom: 20,
         left: 120
     },
-    width = screen.width - margin.right - margin.left,
+    width = 2000 - margin.right - margin.left,
     height = 10000 - margin.top - margin.bottom;
 
 var i = 0,
